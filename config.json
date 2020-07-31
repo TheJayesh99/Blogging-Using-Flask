@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"TRUE",
+        "local_uri":"mysql://root:@localhost/the_j",
+        "prod_uri":"mysql://root:@localhost/the_j",
+        "fb_url":"#",
+        "tw_url":"#",
+        "gh_url":"#",
+        "blog_name":"THE_J",
+        "tag_line":"A Blog liked by programmers",
+        "gmail-user":"enter your gmail here",
+        "gmail-password":"and ur gmail passsword",
+        "about_text": "Hi my name is Jayesh and I create this blog using flask and I am a programmmer who like python very much",
+        "no_of_posts": 3,
+        "login_image": "login.png",
+        "admin_user":"thej",
+        "admin_password": "konichiwa",
+        "upload_location": "D:\\languages\\flask\\static"
+    }
+}
